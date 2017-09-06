@@ -1,0 +1,17 @@
+body,input,div,img,p{margin:0;padding:0;}
+a{font-size:12px;color:rgb(0,0,0);text-decoration:none;
+font-family:"FangSong";}
+a:visited{color:#b2b2b2;
+}
+a:hover{color:#f00;
+}
+body{
+	background-color:rgb(0,0,0);
+	font-family:"FangSong";
+}
+img{
+	vertical-align:middle;
+}
+input:focus{
+	background-color:red;
+}
