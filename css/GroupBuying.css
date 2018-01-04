@@ -1,0 +1,41 @@
+
+.tuangou {
+  line-height: 55px;
+  height: 55px;
+  margin-top: 20px;
+}
+.title-G {
+  font-weight: 700;
+  font-size: 18px;
+  float: left;
+}
+.menu {
+  font-size: 12px;
+  float: right;
+}
+.menu > span {
+  line-height: 4px;
+  border-right: 1px solid #aaa;
+  margin: 0 30px;
+}
+.menu > a {
+  text-decoration: none;
+}
+.menuAc{
+  color: #fe8a27;
+}
+.menuAc:hover{
+  color: #fe8a27;
+}
+.main-content {
+  width: 100%;
+  min-height: 312px;
+}
+.hot-content {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 14px;
+}
