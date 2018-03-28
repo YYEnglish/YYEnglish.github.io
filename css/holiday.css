@@ -1,0 +1,93 @@
+
+#icon-home {
+  font-size: 20px;
+  color: #000;
+}
+.nav-help {
+  height: 35px;
+  float: right;
+}
+.nav-help > a {
+  padding-left: 20px;
+  line-height: 35px;
+  border-left: 1px solid #ccc;
+}
+.content-main {
+  background-color: #b90f34;
+  padding-bottom: 50px;
+}
+.logo {
+  height: 667px;
+  background: url(../imgs/beijing.png) no-repeat top center;
+}
+.h2 {
+  height: 200px;
+  background: url(../imgs/h2.png) no-repeat center 47px;
+}
+.content-ones{
+  background-color: #f17ba6;
+  width: 100%;
+  font-size: 12px;
+  padding:20px 0 15px 0;
+}
+.content-ones>ul>li{
+  float: left;
+  margin:0 0 20px 19px;
+  width: 217px;
+  background-color: #fff;
+  transition: all;
+  padding-bottom: 8px;
+}
+.content-ones>ul>li:hover{
+box-shadow: 3px 3px 5px 3px rgb(238, 83, 83);
+transform: translateY(-5px);
+}
+.content-ones>ul>li>a{
+  display: block;
+  width: 217px;
+  height: 210px;
+  line-height: 310px;
+  text-align: center;
+}
+.content-ones>ul>li>a>img{
+  max-width: 189px;
+  max-height: 190px;
+}
+.content-ones>ul>li>p{
+  padding:0 15px;
+}
+.content-ones>ul>li>span{
+  line-height: 30px;
+  font-size: 14px;
+  padding: 0 15px;
+  color:blue;
+}
+.content-ones>ul>li>div{
+  text-align: center;
+  background-color: #a40000;
+  color:#fff;
+  font-size: 14px;
+  line-height: 30px;
+}
+.wide{
+  width: 100%;
+  margin-top: 88px;
+  background: url(../imgs/discount_bg.png) no-repeat top center;
+  padding-top: 99px;
+  min-height: 500px;
+  max-height: 635px;
+  overflow: hidden;
+
+}
+.holiday_discount_body{
+  padding:20px;
+}
+.holiday_discount_body>ul>li{
+  float: left;
+  margin-left: 36px;
+  transition: all;
+}
+.holiday_discount_body>ul>li:hover{
+  transform: translateY(-3px);
+}
+
